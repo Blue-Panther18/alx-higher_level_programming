@@ -1,3 +1,3 @@
 #!/usr/bin/python3
 number = 3.14159
-print(f"{number:.3g}")
+print(f"{number:.2f}")
