@@ -9,7 +9,7 @@ def pow(a, b):
         n = b
     for i in range(n):
         if b < 0:
-           result = result / a
+            result = result / a
         else:
             result = result * a
     return result
